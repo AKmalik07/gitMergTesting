@@ -1,3 +1,4 @@
 hello i am git merge
 
-code integration version : 1.1
+code integration version : 1.2
+this code is writen by devloper_1
